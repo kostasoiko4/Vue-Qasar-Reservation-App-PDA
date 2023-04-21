@@ -1,0 +1,35 @@
+Done: ✓
+Half Done: -
+Not Done: x
+
+Main Page:
+	- Shop Overview (+ Days Income for Shop Owner)
+	- Active/Booked Order List
+	
+	✓ Menu Navigation
+	✓ Table Navigation
+	✓ Orders Navigation
+
+	Shop Owner:
+		- Add Menus Items/Table
+		- Edit Menu/Table/Shop
+
+	Waiter:
+		- Add New Order
+	
+New Order Page:
+	x Select Menu Items
+	x Select Table
+
+Menu Page:
+	- Display Items
+	x Set Active/Inactive Items
+
+Table Page:
+	- Display Tables
+	x Display Booked/Sitting/Free Table Status
+
+Order Page:
+	✓ Display Days Orders
+	x Display Items Sold Total (per item)
+
