@@ -1,0 +1,90 @@
+.cardMenu {
+    height: 380px;
+    width: 380px;
+    margin: 10px;
+}
+
+.cardIndex {
+    height: 680px;
+    width: 380px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.cardOrder {
+    height: 390px;
+    width: 380px;
+    margin: 10px;
+    background-color: $secondary;
+    cursor: pointer;
+    color: white;
+}
+
+.cardNavigation {
+    height: 123px;
+    width: 380px;
+    margin: 10px;
+    background-color: $secondary;
+    color: white;
+    cursor: pointer;
+}
+
+.cardAdd {
+    height: 70px;
+    width: 380px;
+    margin: 10px;
+    background-color: $primary;
+    color: white;
+    cursor: pointer;
+}
+
+.cardEdit {
+    height: 70px;
+    width: 380px;
+    margin: 10px;
+    background-color: $accent;
+    color: white;
+    cursor: pointer;
+}
+
+.cardDialog {
+    width: 430px;
+    margin: 10px;
+}
+
+.cardImg {
+    height: 65%;
+    cursor: pointer;
+}
+
+.cardImg:hover {
+    transition: 0.3s;
+    opacity: 0.8;
+}
+
+.quantityText {
+    color: $secondary;
+    transform: translate(100%, 30%);
+}
+
+.removeButton {
+    background-color: $secondary;
+    color: white;
+    transform: translate(11%, 59%);
+    width: 100%;
+}
+
+.cancelBtn {
+    color: $negative;
+    font-weight: 600;
+    float: right;
+    position: absolute;
+    transform: translate(175%, 400%);
+}
+
+.addBtn {
+    background-color: $positive;
+    float: right;
+    position: absolute;
+    transform: translate(230%, 400%);
+}
